@@ -1,0 +1,10 @@
+h1	{
+	background: repeating-conic-gradient(darkred);
+	color: blue;
+}
+h2	{
+	color: darkred;
+}
+h3{
+	font-size: 90px;
+}
